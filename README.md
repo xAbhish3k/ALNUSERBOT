@@ -1,7 +1,7 @@
-<h1 align="center">❤️ 🅆🄰🅁🅄🅂🄴🅁🄱🄾🅃 ❤️</h1>
+<h1 align="center">❤️ 𝔸𝕃ℕ 𝕌𝕊𝔼ℝ𝔹𝕆𝕋 ❤️</h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/4b0a3d49d8bf1e2e85fea.png">
+  <img src="https://telegra.ph/file/454f987bb945aac302b82.jpg">
 </p>
 
   <h2 align= "center" >The owner would not be responsible for any kind of bans due to the bot.</h2>
@@ -18,7 +18,7 @@
 <h3>  STRING SESSION  </h3>
   
  
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://generatestringsession.xabhish3k.repl.run) ``Telethon``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Starlord313/ALNUB#.replit) ``Telethon``
 
 
 - Click On Generate String
@@ -34,8 +34,8 @@
 
 ### Official Supports
 
-   <a href="https://t.me/waruserbot"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-   <a href="https://t.me/waruserbotsupport"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/+F4xjcYme7zhmMmI1"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/+xn-tNWk1E6w3NTQ1"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
 
 
 
