@@ -1,1 +1,1 @@
-worker: bash ALN_USERBOT
+worker: bash warbot
