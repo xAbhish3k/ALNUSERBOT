@@ -1,1 +1,1 @@
-worker: bash ALNUSERBOT
+worker: bash alnub
